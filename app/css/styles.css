@@ -1,0 +1,9 @@
+.container {
+    justify-content: cen;
+    background-color: rgba(0, 0, 255, 0.152);
+    width: 50%;
+    padding: 1%;
+    margin: auto;
+    border: solid 3px rgba(1, 1, 69, 0.531);
+    border-radius: 10px;
+}
